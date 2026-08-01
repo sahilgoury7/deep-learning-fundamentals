@@ -31,7 +31,9 @@ deep-learning-fundamentals/
 
 ---
 
-## 🛠️ Environment & Tools
+## 🛠️ Environment & Learning Resources
 - **Python:** 3.10+
 - **Deep Learning Framework:** PyTorch
 - **Core Libraries:** NumPy, Matplotlib, Pandas
+- **Interactive Learning & Visualizations:** [VizLearn](https://vizlearn.in/) (Neural Network & AI Visualizations)
+
